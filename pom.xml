@@ -13,7 +13,7 @@
 	<artifactId>react-admin-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>react-admin-api</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Projeto exemplo - React admin API</description>
 
 	<properties>
 		<java.version>1.8</java.version>
